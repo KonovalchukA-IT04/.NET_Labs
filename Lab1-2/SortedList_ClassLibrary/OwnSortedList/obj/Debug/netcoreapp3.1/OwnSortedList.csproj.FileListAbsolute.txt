@@ -1,0 +1,10 @@
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\bin\Debug\netcoreapp3.1\OwnSortedList.deps.json
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\bin\Debug\netcoreapp3.1\OwnSortedList.dll
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\bin\Debug\netcoreapp3.1\OwnSortedList.pdb
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.csproj.AssemblyReference.cache
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.AssemblyInfoInputs.cache
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.AssemblyInfo.cs
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.csproj.CoreCompileInputs.cache
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.dll
+E:\studying\IV semestr\dot_net\lab1\OwnSortedList\OwnSortedList\obj\Debug\netcoreapp3.1\OwnSortedList.pdb
