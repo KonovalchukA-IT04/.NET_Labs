@@ -1,0 +1,17 @@
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\bin\Debug\net6.0\DAL.dll
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\bin\Debug\net6.0\DAL.pdb
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\staticwebassets.build.json
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\staticwebassets.development.json
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\scopedcss\bundle\DAL.styles.css
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.dll
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.pdb
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\studying\IV semestr\dot_net\Lab3-5\DAL\obj\Debug\net6.0\ref\DAL.dll
