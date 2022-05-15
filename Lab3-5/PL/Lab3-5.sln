@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PL", "PL.csproj", "{D4E90B82-AC73-4F55-9055-9C623A9C664C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{F2D55A9E-EE85-4040-B35D-6CB720136E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{1FEE0B86-2B73-4843-B9D8-CFAB0B8DF23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E90B82-AC73-4F55-9055-9C623A9C664C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E90B82-AC73-4F55-9055-9C623A9C664C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E90B82-AC73-4F55-9055-9C623A9C664C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E90B82-AC73-4F55-9055-9C623A9C664C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D55A9E-EE85-4040-B35D-6CB720136E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D55A9E-EE85-4040-B35D-6CB720136E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D55A9E-EE85-4040-B35D-6CB720136E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D55A9E-EE85-4040-B35D-6CB720136E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE0B86-2B73-4843-B9D8-CFAB0B8DF23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE0B86-2B73-4843-B9D8-CFAB0B8DF23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE0B86-2B73-4843-B9D8-CFAB0B8DF23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE0B86-2B73-4843-B9D8-CFAB0B8DF23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B7F144-61BE-411A-8F3F-FE1803E0CF34}
+	EndGlobalSection
+EndGlobal
